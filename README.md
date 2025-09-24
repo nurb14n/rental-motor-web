@@ -1,8 +1,4 @@
-🏍️ MotorRent - Aplikasi Penyewaan Motor Modern
-
-https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=1200&h=400&fit=crop
-
-Live Demo: https://nurb14n.github.io/rental-motor-web/
+MotorRent - Website Penyewaan Motor Modern
 
 Aplikasi web modern untuk penyewaan motor dengan antarmuka yang elegan dan pengalaman pengguna yang optimal. Dibangun dengan React.js dan teknologi web terbaru.
 
@@ -63,7 +59,7 @@ npm start
 1. Buka browser
 
 ```
-http://localhost:3000
+http://localhost:5173
 ```
 
 Build untuk Production
@@ -71,56 +67,6 @@ Build untuk Production
 ```bash
 npm run build
 ```
-
-🎨 Struktur Proyek
-
-```
-rental-motor-web/
-├── public/
-│   ├── index.html
-│   └── favicon.ico
-├── src/
-│   ├── components/          # Komponen React
-│   ├── App.js              # Komponen utama
-│   ├── index.js            # Entry point
-│   └── index.css           # Stylesheet utama
-├── package.json
-└── README.md
-```
-
-📱 Sections yang Tersedia
-
-🏠 Hero Section
-
-· Headline yang menarik
-· Call-to-action buttons
-· Gambar motor utama
-
-💫 Fitur Unggulan
-
-· Kualitas terbaik
-· Proses cepat & mudah
-· Lokasi strategis
-· Support 24/7
-
-🏍️ Katalog Motor
-
-· Honda CB150R
-· Yamaha NMAX
-· Suzuki GSX-R150
-· Dan lainnya...
-
-👥 Testimoni Pelanggan
-
-· Ulasan dari pelanggan nyata
-· Rating system
-· Auto-rotating carousel
-
-📞 Kontak & Lokasi
-
-· Form kontak
-· Informasi kontak
-· Social media links
 
 🌐 Deployment
 
@@ -135,7 +81,6 @@ npm run deploy
 
 · npm start - Menjalankan development server
 · npm run build - Build production version
-· npm run deploy - Deploy ke GitHub Pages
 
 🚀 Pengembangan Selanjutnya
 
